@@ -1,0 +1,16 @@
+img{
+	width: 100%;
+	height:100%;
+	background-image:url("../images/39974405_319961801894689_8217294613694644224_n.jpg");
+	background-repeat: no-repeat;
+}
+img:active{
+	background-image:url("../images/maxresdefault.jpg");
+	background-repeat: no-repeat;
+	width: 960px;
+	height: 540px;
+	background-size:100%;
+}
+h1{
+	color: red;
+}
