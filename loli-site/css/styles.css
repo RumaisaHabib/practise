@@ -3,6 +3,8 @@ img{
 	height:100%;
 	background-image:url("../images/39974405_319961801894689_8217294613694644224_n.jpg");
 	background-repeat: no-repeat;
+	width: 960px;
+	height: 540px;
 }
 img:active{
 	background-image:url("../images/maxresdefault.jpg");
